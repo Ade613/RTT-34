@@ -49,9 +49,9 @@ Detail 2:
 
 Questions
 
-Question 1:
+Question 1: what did we learn today?
 
-Question 2:
+Question 2: huh? 
 
 ---
 
