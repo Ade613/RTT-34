@@ -1,10 +1,17 @@
 Notes for [Topic]
+
 Table of Contents
+
 Overview
+
 Key Points
+
 Details
+
 Questions
+
 References
+
 Action Items
 
 ---
